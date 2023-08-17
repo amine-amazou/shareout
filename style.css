@@ -1,0 +1,17 @@
+.fs-4 {
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.alert {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+@media (min-width: 419px) and (max-width: 777px){
+.fs-4 {
+    margin-left: 20px;
+    }
+}
+.alert {
+    margin-left: 50px;
+    margin-right: 50px;
+}

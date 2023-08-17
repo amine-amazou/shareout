@@ -1,0 +1,7 @@
+.download-button {
+    display: flex;
+    justify-content: center;
+}
+.download-button:visited, .download-button:link, .download-button:active, .download-button:hover{
+    text-decoration: none;
+}
